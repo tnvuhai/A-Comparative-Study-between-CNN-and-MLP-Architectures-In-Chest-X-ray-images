@@ -23,9 +23,10 @@ The project is based on the **ChestXray2017** [1] dataset  and includes detailed
 
 1. **Clone the repository**
 
-```bash
+```
 git clone https://github.com/tnvuhai/A-Comparative-Study-between-CNN-and-MLP-Architectures-In-Chest-X-ray-images.git
 cd A-Comparative-Study-between-CNN-and-MLP-Architectures-In-Chest-X-ray-images
+```
 
 2. **Run the notebooks**
 Use Jupyter Notebook or VS Code to run each pipeline:
