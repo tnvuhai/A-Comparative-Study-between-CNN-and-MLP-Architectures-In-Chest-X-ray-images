@@ -38,7 +38,7 @@ Use Jupyter Notebook or VS Code to run each pipeline:
   Open `CNN_pipeline.ipynb` to train and evaluate the CNN model.
 
 ## 📊 Results & Visualization
-###CNN (a) and MLP (b) performance on training data:
+### CNN (a) and MLP (b) performance on training data:
 
 ![CNN&MLP Result](images/TrainingCurve.png)
 
