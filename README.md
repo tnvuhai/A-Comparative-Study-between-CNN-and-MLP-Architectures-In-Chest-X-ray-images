@@ -6,7 +6,8 @@ This repository contains an implementation of a deep learning pipeline for class
 - **Multi-Layer Perceptron (MLP)**
 
 The project is based on the **ChestXray2017** [1] dataset  and includes detailed training, evaluation, and visualization procedures.
-![Data](images/Chest X-ray images.png)
+
+![Data](images/Chest-X-ray images.png)
 
 ---
 
