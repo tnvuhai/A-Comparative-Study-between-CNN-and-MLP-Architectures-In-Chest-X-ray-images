@@ -1,4 +1,4 @@
-# A-Comparative-Study-between-CNN-and-MLP-Architectures
+# A Comparative Study between CNN and MLP Architectures In Chest X-ray images
 
 This repository contains an implementation of a deep learning pipeline for classifying chest X-ray images into **normal** and **pneumonia** categories. Two models are implemented and compared:
 
